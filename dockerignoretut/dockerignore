@@ -1,0 +1,7 @@
+#ignore the docs folder
+docs
+# ignore all markdown files
+*.md
+
+#in this case, make an exception for the read me file
+!README.md
